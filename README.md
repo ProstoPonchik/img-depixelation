@@ -8,7 +8,7 @@ This project is designed to depixelate images using machine learning. The primar
 
 1. **Clone the Repository**
    ```bash
-   git clone [<repository_url>](https://github.com/ProstoPonchik/img-depixelation.git)
+   git clone https://github.com/ProstoPonchik/img-depixelation.git
    ```
 
 2. **Install Dependencies**
