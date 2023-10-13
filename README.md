@@ -22,7 +22,7 @@ This project is designed to depixelate images using machine learning. The primar
    - Download `images_for_training.zip` from the project's GitHub repository.
    - Extract the images:
      ```bash
-     unzip images_for_training.zip
+     unzip images.zip
      ```
 
 4. **Set Up Training Data Path**
